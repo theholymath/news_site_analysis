@@ -1,0 +1,133 @@
+{
+    "C": {
+        "breitbart": {
+            "feed_url": "http://feeds.feedburner.com/breitbart",
+            "headlines": [],
+            "url": "http://www.breitbart.com/"
+        },
+        "TheAmericanConservative": {
+            "feed_url": "http://www.theamericanconservative.com/articles/feed/",
+            "headlines": [],
+            "url": "http://www.theamericanconservative.com"
+        },
+        "TheWeeklyStandard": {
+            "feed_url": "http://www.weeklystandard.com/rss/all",
+            "headlines": [],
+            "url": "http://www.weeklystandard.com"
+        },
+        "drudgereport": {
+            "feed_url": "http://www.drudgesiren.com/topStories.xml",
+            "headlines": [],
+            "url": "http://www.drudgereport.com/"
+        },
+        "foxnews": {
+            "feed_url": "http://feeds.foxnews.com/foxnews/latest",
+            "headlines": [],
+            "url": "http://www.foxnews.com/"
+        },
+        "ijr": {
+            "feed_url": "http://ijr.com/feed/",
+            "headlines": [],
+            "url": "http://ijr.com/"
+        },
+        "newsmax": {
+            "feed_url": "https://www.newsmax.com/rss/Newsfront/16",
+            "headlines": [],
+            "url": "http://newsmax.com/"
+        },
+        "nypost": {
+            "feed_url": "http://nypost.com/news/feed/",
+            "headlines": [],
+            "url": "http://nypost.com/"
+        },
+        "rushlimbaugh": {
+            "feed_url": "https://www.rushlimbaugh.com/rss/transcripts/25/1",
+            "headlines": [],
+            "url": "https://www.rushlimbaugh.com/"
+        },
+        "theblaze": {
+            "feed_url": "http://www.theblaze.com/stories/feed/",
+            "headlines": [],
+            "url": "http://www.theblaze.com/"
+        },
+        "townhall": {
+            "feed_url": "http://townhall.com/api/openaccess/news/",
+            "headlines": [],
+            "url": "http://townhall.com/"
+        },
+        "washingtontimes": {
+            "feed_url": "http://www.washingtontimes.com/rss/headlines/news/national/",
+            "headlines": [],
+            "url": "http://www.washingtontimes.com/"
+        }
+    },
+    "L": {
+        "abcnews": {
+            "feed_url": "http://feeds.abcnews.com/abcnews/topstories",
+            "headlines": [],
+            "url": "http://abcnews.go.com/"
+        },
+        "cnn": {
+            "feed_url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+            "headlines": [],
+            "url": "http://www.cnn.com/"
+        },
+        "NPR": {
+            "feed_url": "http://www.npr.org/rss/rss.php?id=1001",
+            "headlines": [],
+            "url": "http://www.npr.org"
+        },
+        "dailykos": {
+            "feed_url": "http://www.dailykos.com/blogs/main.rss",
+            "headlines": [],
+            "url": "http://www.dailykos.com"
+        },
+        "newyorker": {
+            "feed_url": "http://www.newyorker.com/feed/everything",
+            "headlines": [],
+            "url": "http://www.newyorker.com"
+        },
+        "nytimes": {
+            "feed_url": "http://feeds.nytimes.com/nyt/rss/HomePage",
+            "headlines": [],
+            "url": "https://www.nytimes.com/"
+        },
+        "politico": {
+            "feed_url": "http://www.politico.com/rss/politicopicks.xml",
+            "headlines": [],
+            "url": "http://www.politico.com"
+        },
+        "theatlantic": {
+            "feed_url": "https://www.theatlantic.com/feed/all/",
+            "headlines": [],
+            "url": "https://www.theatlantic.com"
+        },
+        "theHill": {
+            "feed_url": "http://thehill.com/rss/syndicator/19110",
+            "headlines": [],
+            "url": "http://thehill.com"
+        },
+        "Reuters": {
+            "feed_url": "http://feeds.reuters.com/reuters/MostRead",
+            "headlines": [],
+            "url": "http://reuters.com"
+        },   
+        "FiveThirtyEight": {
+            "feed_url": "https://fivethirtyeight.com/all/feed",
+            "headlines": [],
+            "url": "https://fivethirtyeight.com"
+        },
+        "washingtonpost": {
+            "feed_url": "http://www.washingtonpost.com/wp-dyn/rss/print/index.xml",
+            "headlines": [],
+            "url": "http://www.washingtonpost.com"
+        }
+    },
+    "O": {
+        "russia_today": {
+            "feed_url": "https://www.rt.com/rss/",
+            "headlines": [],
+            "url": "https://www.rt.com/"
+        }
+    }
+}
